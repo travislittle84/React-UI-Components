@@ -1,1 +1,40 @@
 /* All styles for your header Components live here */
+.header-container {
+    width: 100%;
+    margin-bottom: 2px;
+}
+
+#header-content {
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 2px;
+}
+
+#image-thumbnail {
+    width: 55px;
+    height: 59px;
+    flex-basis: max-content;
+}
+
+#header-title {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 6px;
+    padding: 0 0;
+    font-size: 14px;
+}
+
+#header-title h4 {
+    margin: 2px 3px 0 0;   
+}
+
+#header-title span {
+    margin: 2px 3px;
+    color: slategrey;
+}
+
+#header-body {
+    width: 100%;
+    padding: 4px 0;
+}

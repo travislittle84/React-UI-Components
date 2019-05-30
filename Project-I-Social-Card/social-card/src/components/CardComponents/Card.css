@@ -1,1 +1,23 @@
 /* All styles for your Card Components live here */
+#card-banner {
+    width: 100%;
+}
+
+#card-content {
+    border: 1px solid whitesmoke;
+    border-radius: 4px;    
+    margin-left: 56px;
+}
+
+#card-body {
+    padding: 6px 10px;
+    
+}
+
+#card-title {
+    
+}
+
+#card-source {
+    color: slategray;
+}
