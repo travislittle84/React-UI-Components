@@ -1,0 +1,18 @@
+.calculator-display {
+    background-color: #222222;
+    border: 1px solid gray;
+    
+    width: 100%;
+    height: 122px;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; 
+}
+
+.calculator-text {
+    font-size: 3.5rem;
+    color: whitesmoke;
+    vertical-align: middle;
+    padding-right: 15px;
+}
