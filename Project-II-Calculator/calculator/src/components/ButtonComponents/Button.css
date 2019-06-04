@@ -1,0 +1,19 @@
+.small {
+    width: 114px;
+    font-weight: bold;
+}
+
+.big {
+    width: 342px;
+    font-weight: 300;
+    font-style: none;
+}
+
+.lambda-white {
+    background-color: #fff;
+}
+
+.lambda-red {
+    background-color: #a0001e;
+    color: #fff;
+}
